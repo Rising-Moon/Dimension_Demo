@@ -1,39 +1,8 @@
-# Dimension
-
-#### 介绍
-{**以下是码云平台说明，您可以替换此简介**
-码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# Dimension/维度
+## 游戏类型：益智解谜
+## 游戏平台：Windows
+## 作者：Rising-Moon
+## 游戏介绍：
+- 这是一款将2D与3D视角结合在一起的过关解密类游戏。
+- 游戏的主角是一个方盒状的虚拟机器人，它生活的地方与现实世界永远有一块屏幕相隔。通常我们都是作为玩家，坐在游戏机面前，看着屏幕中的2D画面时有没有想过，如果以游戏中角色的视角来看这个游戏，2D的角色在2D世界里是不是和我们生活在3D的世界里感觉一样呢。
+- 这个想法给了我一些启示，我想让摄像头可以穿过那个屏幕，以2D游戏角色的视角来观察游戏世界，我凭借想象赋予了游戏中事物新的维度，让其变成了一个截然不同的游戏。
